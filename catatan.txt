@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=zj8rehtim0U -> upload web ke github
+
+
+
+box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.5); /* Bayangan luar, 5px kanan, 5px bawah, blur 10px, menyebar 2px, warna hitam transparan */
+
+box-shadow: inset 0 0 10px blue; /* Bayangan dalam (inset), blur 10px, biru */
+
+
+text-shadow: 2px 2px 5px red; /* Bayangan merah, 2px ke kanan, 2px ke bawah, blur 5px */
