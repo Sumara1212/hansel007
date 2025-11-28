@@ -651,7 +651,7 @@ footer .credit p a {
 }
 
 /*Mobile Phone*/
-@media (max-width: 450px) {
+@media (max-width: 576px) {
     html {
         font-size: 55%;
     }
@@ -691,7 +691,8 @@ footer .credit p a {
     }
 
     .navbar .search-form {
-        width: 40rem;
+        width: 35rem;
     }
 }
+
 
